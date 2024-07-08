@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695930256216",
+    "project_id": "crypto-list-app-9b9ad",
+    "storage_bucket": "crypto-list-app-9b9ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695930256216:android:eb2b93f077414f20f8432d",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFP71JfFJu-y-GPGo39maliBhOV6nWBeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
