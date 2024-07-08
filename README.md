@@ -4,7 +4,7 @@ This app contains information about cryptocurrencies
 
 # Usage
 
-Download the files from the repository
+Download the files from the repository. You will also need to install the Android SDK Platform 33 and Sources for Anfroid 33
 
 Run the program
 
