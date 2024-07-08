@@ -5,9 +5,13 @@ This app contains information about cryptocurrencies
 # Usage
 
 Download the files from the repository
+
 Run the program
+
 On the main page you will see the list of cryptocurrencies
+
 If you click on a cryptocurrency, you will see a page with detailed information about it.
+
 If you click on the list on the main page in the upper right corner, you can see the program logs
 
 # Additional nodes
